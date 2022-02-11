@@ -22,4 +22,4 @@
 
 * Quando enviar o resultado, informe quanto tempo levou para produzir.
 
-**Tempo utilizado no total: 6 horas**
+**Tempo utilizado no total: 5 horas**
