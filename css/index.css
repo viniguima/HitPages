@@ -220,6 +220,12 @@ a {
     width: 700px !important;
     height: 470px !important;
 	}}
+@media (min-width: 912px) and  (max-width: 915px)  {
+	.form-content{
+    margin-left: 27px !important;
+    width: 700px !important;
+    height: 470px !important;
+	}}
 @media (min-width: 1440px) {
 	.form-content{
     margin-left: 285px !important;
@@ -232,3 +238,24 @@ a {
     width: 700px !important;
     height: 470px !important;
 	}}
+  @media (min-width: 414px) and (max-width: 500px) {
+    .form-content{
+      margin-left: -40px !important;
+      width: 340px !important;
+      height: 470px !important;
+    }
+  }
+  @media (min-width: 412px) and (max-width: 413px) {
+    .form-content {
+      margin-left: -48px !important;
+      width: 340px !important;
+      height: 470px !important;
+  }
+  }
+  @media (min-width: 540px) and (max-width: 550px) {
+    .form-content {
+      margin-left: 18px !important;
+      width: 340px !important;
+      height: 470px !important;
+  }
+  }
